@@ -1,0 +1,2 @@
+06/07/2022_11:43:43;Test# 0 - SCAN ;  Opérateur = _ ; SN = SN_ERROR ;
+06/07/2022_11:43:43;Fin du programme

@@ -1,0 +1,2 @@
+03/12/2021_11:15:02;pack SN:QR Code produit non lu;Opérateur:_
+03/12/2021_11:15:02;Fin du programme
